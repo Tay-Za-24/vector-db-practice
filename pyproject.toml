@@ -7,4 +7,5 @@ requires-python = ">=3.14"
 dependencies = [
     "qdrant-client>=1.18.0",
     "sentence-transformers>=5.6.0",
+    "fastapi[standard]"
 ]
