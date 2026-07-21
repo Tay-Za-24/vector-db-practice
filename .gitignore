@@ -11,3 +11,6 @@ wheels/
 
 # Qdrant local storage
 qdrant_storage/
+
+# macOS system files
+.DS_Store
